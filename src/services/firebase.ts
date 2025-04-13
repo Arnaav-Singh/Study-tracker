@@ -33,13 +33,7 @@ import { getFunctions } from 'firebase/functions';
 
 // Firebase configuration (move to .env for production)
 const firebaseConfig = {
-  apiKey: "AIzaSyAOFZrM7ArDhFJC1NcruJsmrDqEU2mVmSk",
-  authDomain: "study-tracker-6203e.firebaseapp.com",
-  projectId: "study-tracker-6203e",
-  storageBucket: "study-tracker-6203e.appspot.com",
-  messagingSenderId: "517475969826",
-  appId: "1:517475969826:web:46818350363c122038937b",
-  measurementId: "G-F9BH1ZCG3K",
+ 
 };
 
 // Initialize Firebase
