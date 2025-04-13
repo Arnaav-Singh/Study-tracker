@@ -76,8 +76,7 @@ const Library = () => {
     }
 
     openPicker({
-      clientId: '517475969826-l48djhg45vmere8cc3gb28d0r8dsckmj.apps.googleusercontent.com',
-      developerKey: 'AIzaSyB7r2whc9VU6fY0Qg_Pgt_wmoR_OHnQkDk', // Replace with your API key
+      
       viewId: 'DOCS',
       showUploadView: true,
       showUploadFolders: true,
